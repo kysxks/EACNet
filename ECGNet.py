@@ -398,7 +398,7 @@ class Decoder(nn.Module):
 
 
 
-class EACNet(nn.Module):
+class ECGNet(nn.Module):
 
     def __init__(self,
                  decode_channels=64,
