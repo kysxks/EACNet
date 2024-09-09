@@ -1,5 +1,5 @@
-# EACNet
-EACNet 的实现
+# ECGNet
+ECGNet 的实现
 ![module-1](https://github.com/kysxks/EACNet/assets/79324607/f239ace1-6802-4495-9439-571b08955826)
 ![module-2](https://github.com/kysxks/EACNet/assets/79324607/ab6003e6-4cd7-4759-aaa8-484c3947b3f6)
 ![module-3](https://github.com/kysxks/EACNet/assets/79324607/a209d292-b866-417c-a13f-7d4373fbf1a9)
